@@ -9,24 +9,6 @@ Vue3.0 将使用 TS 重写，重写后的 Vue3.0 将更好的支持 TS。2019 �
 
 项目详情请猛戳该文章： [Vue + TypeScript + Element 搭建简洁时尚的博客网站及踩坑记](https://biaochenxuying.cn/articleDetail?article_id=5c9d8ce5f181945ddd6b0ffc)
 
-
-## 效果
-
-效果图：
-
-- pc 端
-
-![](https://upload-images.jianshu.io/upload_images/12890819-9f5f1b384a27c6ff.gif?imageMogr2/auto-orient/strip)
-
-
-- 移动端
-
-![](https://upload-images.jianshu.io/upload_images/12890819-5370ed6dfbe61051.gif?imageMogr2/auto-orient/strip)
-
-
-完整效果请看：[https://biaochenxuying.cn](https://biaochenxuying.cn)
-
-
 ## 功能
 
 ### 已经完成功能
@@ -98,32 +80,6 @@ npm run build
 
 虽然引入了 mock 了，但是还没有时间做模拟数据，想看具体效果，请稳步到我的网站上查看 [https://biaochenxuying.cn](https://biaochenxuying.cn)
 
-## 项目地址与文档教程
-
-**项目地址：**
-
-> [vue 前台展示: https://github.com/biaochenxuying/blog-vue-typescript](https://github.com/biaochenxuying/blog-vue-typescript)
-
-> [react 前台展示: https://github.com/biaochenxuying/blog-react](https://github.com/biaochenxuying/blog-react)
-
-> [管理后台：https://github.com/biaochenxuying/blog-react-admin](https://github.com/biaochenxuying/blog-react-admin)
-
-> [后端：https://github.com/biaochenxuying/blog-node](https://github.com/biaochenxuying/blog-node)
-
-> [blog：https://github.com/biaochenxuying/blog](https://github.com/biaochenxuying/blog)
-
-**本博客系统的系列文章：**
-
-- 1. [react + node + express + ant + mongodb 的简洁兼时尚的博客网站](https://biaochenxuying.cn/articleDetail?article_id=5bf57a8f85e0f13af26e579b)
-- 2. [react + Ant Design + 支持 markdown 的 blog-react 项目文档说明](https://biaochenxuying.cn/articleDetail?article_id=5bf6bb5e85e0f13af26e57b7)
-- 3. [基于 node + express + mongodb 的 blog-node 项目文档说明](https://biaochenxuying.cn/articleDetail?article_id=5bf8c57185e0f13af26e7d0d)
-- 4. [服务器小白的我,是如何将node+mongodb项目部署在服务器上并进行性能优化的](https://biaochenxuying.cn/articleDetail?article_id=5bfa728bb54f044b4f9da240)
-- 5. [github 授权登录教程与如何设计第三方授权登录的用户表](https://biaochenxuying.cn/articleDetail?article_id=5c7bd34e42b55e2ecc90976d)
-- 6. [一次网站的性能优化之路 -- 天下武功，唯快不破](https://biaochenxuying.cn/articleDetail?article_id=5c8ca2d3b87b8a04f1860c9a)
-- 7. [Vue + TypeScript + Element 搭建简洁时尚的博客网站及踩坑记](https://biaochenxuying.cn/articleDetail?article_id=5c9d8ce5f181945ddd6b0ffc)
-- 8. [前端解决第三方图片防盗链的办法 - html referrer 访问图片资源403问题](https://biaochenxuying.cn/articleDetail?article_id=5cfcc6798090bd3c84138a08)
-
-
 ## 权衡
 
 如何更好的利用 JS 的动态性和 TS 的静态特质，我们需要结合项目的实际情况来进行综合判断。一些建议：
@@ -137,15 +93,3 @@ npm run build
 其实本项目也是小项目来的，其实并不太适合加入  TypeScript ，不过这个项目是个人的项目，是为了练手用的，所以就无伤大大雅。
 
 未来，class-compoent 也将成为主流，现在写 TypeScript 以后进行 3.0 的迁移会更加方便。
-
-## 最后
-
-鉴于问问题的人有点多，笔者时间有限，处理不过来，大家可以加入 QQ 群：**186045338**，加群暗号：**全栈修炼** ，一起相互交流学习。
-
-对 **全栈修炼** 有兴趣的朋友可以扫下方二维码关注我的公众号
- 
-我会不定期更新有价值的内容，长期运营。
-
-关注公众号并回复 **福利** 可领取免费学习资料，福利详情请猛戳：  [Python、Java、Linux、Go、node、vue、react、javaScript](https://biaochenxuying.cn/articleDetail?article_id=5bf4ba3c245730373274df61)
-
-![全栈修炼](https://upload-images.jianshu.io/upload_images/12890819-bce9560fec5c49ea.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
